@@ -113,7 +113,7 @@ BKP JUGA ADA
 ### Licence
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[PANDA-FILE-SHARING-BOT](https://github.com/ibnubadjingan/File-Sharing-Bot/)
+[PANDA-FILE-SHARING-BOT](https://github.com/ibnubadjingan/)
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version. 
